@@ -1,5 +1,4 @@
 <html lang="en">
-
 <head>
  <meta charset="UTF-8">
  <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,7 +6,6 @@
   content="width=device-width, initial-scale=1.0">
  <link rel="stylesheet" href="resume.css">
 </head>
-
 <body>
  <div class="full">
   <div class="left">
@@ -72,5 +70,4 @@
   </div>
  </div>
 </body>
-
 </html>
